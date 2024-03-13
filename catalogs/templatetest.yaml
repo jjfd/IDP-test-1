@@ -4,10 +4,10 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: rhdhdemo1
-  title: RHDH Test Scaffold template from Backstage
+  title: RHDH Test Scaffold template with Hongchao update
   description: scaffolder v1beta3 template demo
 spec:
-  owner: backstage/techdocs-core
+  owner: ns/hongchao
   type: service
 
   # these are the steps which are rendered in the frontend with the form input
